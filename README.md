@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarup Biswas</h1>
-<h3 align="center">I'm a passionate and detail-oriented Web Developer with a strong focus on creating clean, responsive, and user-friendly websites. I love bringing ideas to life through code and turning complex problems into simple, beautiful solutions.</h3>
+<h3 align="center">I’m Swarup Biswas, an intermediate web developer currently learning and growing my skills in web development. I work with front-end and back-end and I'm excited to keep expanding my knowledge to build impactful, user-friendly websites.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
