@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarup Biswas</h1>
-<h3 align="center">I’m Swarup Biswas, an intermediate web developer currently learning and growing my skills in web development. I work with front-end and back-end and I'm excited to keep expanding my knowledge to build impactful, user-friendly websites.</h3>
+<h3 align="center">I am Swarup Biswas. I am studying Computer Science and Engineering (CSE) at American International University - Bangladesh (AIUB) and I am an Intermediate Web Developer, currently learning and growing my skills in web development. I work with front-end and back-end and am excited to expand my knowledge to create effective, user-friendly websites.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
