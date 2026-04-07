@@ -12,7 +12,7 @@
 ---
 
 ## 📝 About Me
-I a Web Developer and AI Enthusiast with hands-on experience in building responsive web applications and exploring machine learning concepts. Passionate about combining clean UI/UX with intelligent backend logic to develop efficient and innovative solutions.<p align="">Visit My <a href="https://www.swarupkst.com/" target="_blank"><strong>Personal Website</strong></a> 
+I'm a Web Developer and AI Enthusiast with hands-on experience in building responsive web applications and exploring machine learning concepts. Passionate about combining clean UI/UX with intelligent backend logic to develop efficient and innovative solutions.<p align="">Visit My <a href="https://www.swarupkst.com/" target="_blank"><strong>Personal Website</strong></a> 
 </p>
 
 ---
