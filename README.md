@@ -1,12 +1,32 @@
+<img width="1536" height="481" alt="Github banner" src="https://github.com/user-attachments/assets/fc23add3-73da-49a2-8e65-d4fe2e1a2461" />
+
 <h1 align="center">Hi 👋, I'm Swarup Biswas</h1>
-<h3 align="center">I am Swarup Biswas. I am studying Computer Science and Engineering (CSE) at American International University - Bangladesh (AIUB) and I am an Intermediate Web Developer, currently learning and growing my skills in web development. I work with front-end and back-end and am excited to expand my knowledge to create effective, user-friendly websites.</h3>
+<h3 align="center">💻 Web Developer | 🤖 AI Enthusiast  </h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+<p align="center">
+📍 Dhaka, Bangladesh <br>
+📧 swarupkst@gmail.com <br>
+📞 +8801701343823
+</p>
 
-- 👨‍💻Visit My Portfolio: [swarupkst.com](https://swarupkst.com)
+---
 
-- 📫 How to reach me **swarupkst@gmail.com**
+## 📝 About Me
+I a Web Developer and AI Enthusiast with hands-on experience in building responsive web applications and exploring machine learning concepts. Passionate about combining clean UI/UX with intelligent backend logic to develop efficient and innovative solutions.<p align="">Visit My <a href="https://www.swarupkst.com/" target="_blank"><strong>Personal Website</strong></a> 
+</p>
 
+---
+
+## 🔭 Current Activities
+- Learning **Advanced JavaScript, AI/ML**
+- Working on **Modern web & AI-based projects**
+- Exploring **AI automation**
+- Practicing **Problem Solving** on Codeforces
+- Goal **Build impactful and intelligent applications**
+---
+
+
+## 💻 Skills
 
 
 <h3 align="left">Languages:</h3>
@@ -19,6 +39,20 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+</p>
+
+
+
+
+<h3 align="left">Framework:</h3>
+<p align="left">
+  <a href="https://react.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </a>
+  
 </p>
 
 
@@ -46,9 +80,36 @@
 <a href="https://instagram.com/swarupkst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swarupkst" height="30" width="40" /></a>
 </p> <br>
 
-  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupkst&show_icons=true&locale=en&layout=compact" alt="swarupkst" />
- </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupkst&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swarupkst&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+1. **[PawNion (A pet adoption platform)](https://pawnion.swarupkst.com)**  
+   - 🛠 Tech: HTML, Tailwind CSS, JavaScript, PHP, MySQL , REST API  
+   - A web-based pet adoption platform that allows users to post pets for adoption and explore available pets to find a suitable companion in a simple and organized way.
+
+2. **[DigiTools (All-in-One Utility Platform)](https://digitoolsbyswarup.netlify.app)**  
+   - 🛠 Tech: React, Tailwind CSS, Firebase  
+   - A comprehensive web app designed to manage restaurant bookings, menus, and customer orders efficiently.
+
+3. **[FileShare (Secure File Sharing Platform)](https://fileshare.swarupkst.com)**  
+   - 🛠 Tech: React, Node.js, Express, MongoDB  
+   - A web-based file sharing platform that allows users to upload and securely share files through a simple interface with optional password protection.
+
+
+---
+
+
 
 
  
