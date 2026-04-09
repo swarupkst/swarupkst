@@ -85,9 +85,9 @@ I'm a Web Developer and AI Enthusiast with hands-on experience in building respo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupkst&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupkst&theme=tokyonight&hide_border=true" alt="GitHub streak" width="90%" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swarupkst&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swarupkst&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
 
 ---
