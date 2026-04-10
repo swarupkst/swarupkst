@@ -103,7 +103,7 @@ I'm a Web Developer and AI Enthusiast with hands-on experience in building respo
    - A comprehensive web app designed to manage restaurant bookings, menus, and customer orders efficiently.
 
 3. **[FileShare (Secure File Sharing Platform)](https://fileshare.swarupkst.com)**  
-   - 🛠 Tech: React, Node.js, Express, MongoDB  
+   - 🛠 Tech: HTML, CSS, JavaScript, PHP, MySQL  
    - A web-based file sharing platform that allows users to upload and securely share files through a simple interface with optional password protection.
 
 
