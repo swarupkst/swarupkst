@@ -62,8 +62,17 @@ I'm a Web Developer and AI Enthusiast with hands-on experience in building respo
   <a href="https://react.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   </a>
+
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  </a>
+
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   </a>
 </p>
 
@@ -71,6 +80,10 @@ I'm a Web Developer and AI Enthusiast with hands-on experience in building respo
 <p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   </a>
 </p>
 
